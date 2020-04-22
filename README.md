@@ -14,5 +14,6 @@ Whereas, We use regression analysis when we are dealing with continuous data, fo
       Ans : Random forest uses bagging techniques whereas GBM uses boosting techniques.
             Random forests mainly try to reduce variance and GBM reduces both bias and variance of a model  
 
+6. What should you do when your model is suffering from low bias and high variance? Ans : When the model’s predicted value is very close to the actual value the condition is known as low bias. In this condition, we can use bagging algorithms like random forest regressor. 
 
 
