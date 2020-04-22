@@ -22,3 +22,4 @@ Ans : Reinforcement learning is all about making decisions sequentially. In simp
 8. What’s the trade-off between bias and variance?
 Ans : Bias is error due to erroneous or overly simplistic assumptions in the learning algorithm you’re using. This can lead to the model underfitting your data, making it hard for it to have high predictive accuracy and for you to generalize your knowledge from the training set to the test set.
 Variance is error due to too much complexity in the learning algorithm you’re using. This leads to the algorithm being highly sensitive to high degrees of variation in your training data, which can lead your model to overfit the data.
+9. How would you evaluate a logistic regression model? Ans : A subsection of the question above. You have to demonstrate an understanding of what the typical goals of a logistic regression are (classification, prediction, etc.) and bring up a few examples and use cases.
