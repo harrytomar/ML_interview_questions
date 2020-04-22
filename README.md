@@ -10,5 +10,9 @@ Whereas, We use regression analysis when we are dealing with continuous data, fo
 
 4. Explain dimension reduction in machine learning.       Ans : Dimension Reduction is the process of reducing the size of the feature matrix. We try to reduce the number of columns so that we get a better feature set either by combining columns or by removing extra variables.
 
+5. Explain differences between random forest and gradient boosting algorithm.
+      Ans : Random forest uses bagging techniques whereas GBM uses boosting techniques.
+            Random forests mainly try to reduce variance and GBM reduces both bias and variance of a model  
+
 
 
