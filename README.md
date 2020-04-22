@@ -5,3 +5,6 @@
 2. What is the difference between classification and regression?
                                                                   Ans : Classification is used to produce discrete results, classification is used to classify data into some specific categories .for example classifying e-mails into spam and non-spam categories.
 Whereas, We use regression analysis when we are dealing with continuous data, for example predicting stock prices at a certain point of time. 
+
+3. Explain Ensemble learning.    Ans : In ensemble learning, many base models like classifiers and regressors are generated and combined together so that they give better results. It is used when we build component classifiers that are accurate and independent. There are sequential as well as parallel ensemble methods. 
+
