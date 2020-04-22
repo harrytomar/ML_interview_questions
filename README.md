@@ -19,4 +19,6 @@ Whereas, We use regression analysis when we are dealing with continuous data, fo
 7. What is Reinforcement Learning ?
 Ans : Reinforcement learning is all about making decisions sequentially. In simple words we can say that the output depends on the state of the current input and the next input depends on the output of the previous input.
 
-
+8. What’s the trade-off between bias and variance?
+Ans : Bias is error due to erroneous or overly simplistic assumptions in the learning algorithm you’re using. This can lead to the model underfitting your data, making it hard for it to have high predictive accuracy and for you to generalize your knowledge from the training set to the test set.
+Variance is error due to too much complexity in the learning algorithm you’re using. This leads to the algorithm being highly sensitive to high degrees of variation in your training data, which can lead your model to overfit the data.
