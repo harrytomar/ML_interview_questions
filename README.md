@@ -16,4 +16,7 @@ Whereas, We use regression analysis when we are dealing with continuous data, fo
 
 6. What should you do when your model is suffering from low bias and high variance? Ans : When the model’s predicted value is very close to the actual value the condition is known as low bias. In this condition, we can use bagging algorithms like random forest regressor. 
 
+7. What is Reinforcement Learning ?
+Ans : Reinforcement learning is all about making decisions sequentially. In simple words we can say that the output depends on the state of the current input and the next input depends on the output of the previous input.
+
 
